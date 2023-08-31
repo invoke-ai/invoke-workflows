@@ -2,17 +2,6 @@
 
 This repository contains a curated collection of core and community-generated workflows that are optimized for Invoke AI's workflow system. These workflows are designed to enable efficient machine learning, data analytics, and various other AI-based tasks. The aim is to provide a centralized resource for the community to find, use, and contribute to scalable and maintainable workflows.
 
-Table of Contents
-
-    Getting Started
-    Prerequisites
-    Installation
-    Usage
-    Contributing
-    Code of Conduct
-    License
-    Contact
-
 ## Getting Started
 
 To get started with these workflows, download the relevant workflow you'd like to use (workflows are a .json file) and drag it into Invoke AI's workflow tab. Make sure to read the description and any accompanying information in order to determine whether there are any custom nodes required for using the workflow.
